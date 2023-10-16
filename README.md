@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Noyphouthid XAYYABUE
 ============================================================================================================================================
 
-Graphic Designer & font-End Developer
+Graphic Designer & Font-End Developer
 -------------------------------------
 
 I am a 2nd year student majoring in computer science from Polytechnic College
@@ -9,9 +9,10 @@ I am a 2nd year student majoring in computer science from Polytechnic College
 * 🌍  I'm based in I'm based in Vientiane, Laos
 * ✉️  You can contact me at [noyphouthid22@gmail.com](mailto:noyphouthid22@gmail.com)
 * 🧠  I'm learning to Python, Java, HTML, CSS, JavaScript, React, TypeScript , MySQL, PHP ...
+* 🎨  I am Graphic Designer [My Printerest](https://www.pinterest.com/noyphouthid/)
 * ⚡  Introvert, Self Taught Learner
 
-### Skills
+### Face Skills
 
 
 <p align="left">
