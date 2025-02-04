@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic Designer & Web Developer
 -------------------------------------
 
-I am a 2nd year student majoring in computer science from Polytechnic College
+I am a student majoring in computer science from Polytechnic College
 
 * 🌍  I'm based in I'm based in Vientiane, Laos
 * ✉️  You can contact me at [noyphouthid22@gmail.com](mailto:noyphouthid22@gmail.com)
@@ -12,7 +12,7 @@ I am a 2nd year student majoring in computer science from Polytechnic College
 * 🎨  I am Graphic Designer [My Pinterest](https://www.pinterest.com/noyphouthid/)
 * ⚡  Introvert, Self Taught Learner
 
-### Face Skills
+### Skills
 
 
 <p align="left">
